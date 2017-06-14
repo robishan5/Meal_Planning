@@ -1,0 +1,18 @@
+The app helps create ideas for planning meals by randomly selecting recipes from a predefined list.
+
+You'll need to create that list of recipes, which for this version is simply a text file with each recipe name on
+a new line.
+
+When run, the app will print a list of 5 randomly selected recipes, and then ask the user to select one by entering
+a number corresponding to it.
+
+When the user is done selecting random recipes, they can quit the program by entering q or quit.
+
+Then the app will print the selected recipes, before quitting.
+
+Meal Planning 2.1 : New lists generated exclude already chosen meals
+Meal Planning 2.2 : Final output generates recipe name and information
+Meal Planning 2.3 : Final output generates a shopping list
+Generate User Interface
+
+
